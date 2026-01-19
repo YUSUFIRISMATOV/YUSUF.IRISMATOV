@@ -1,6 +1,6 @@
 # Merhaba, ben Yusuf İrismatov! 👋
 
-Yazılım Mühendisi olarak sürekli öğrenmeye, kendimi geliştirmeye odaklı bir yazılımcıyım. İstanbul Gelişim Üniversitesi'nden mezun oldum ve web geliştirme ile backend teknolojilerine özel bir ilgi duyuyorum.
+Yazılım Mühendisi olarak sürekli öğrenmeye, kendimi geliştirmeye odaklı bir yazılımcıyım. İstanbul Gelişim Üniversitesi'nden mezun oldum ve yazılım geliştirme alanında kendimi sürekli geliştirmeye çalışıyorum.
 
 ## Hakkımda
 
